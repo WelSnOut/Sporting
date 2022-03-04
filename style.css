@@ -1,0 +1,112 @@
+body {
+  padding: 0 30px;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: "Arial", sans-serif;
+  color: #222222;
+
+  background: #ffffff url("img/manisa-kula-jeopark-fifa-futbol-sahasi-1.jpg") no-repeat top center;
+  background-size: cover;
+}
+
+code {
+  padding: 2px 5px;
+}
+
+a[href] {
+  color: #061924;
+  text-decoration: underline;
+  padding: 20px;
+  margin: 20px 0;
+  font-weight: bold;
+}
+
+h2 {
+  color:#000000;
+}
+
+dl {
+  color:#ffffff;
+}
+
+p {
+  padding: 60px;
+  margin: 20px 0;
+  text-align: center;
+}
+
+h1 {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: normal;
+  padding-left: 410px;
+}
+
+nav {
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.avatar {
+  border-radius: 50%;
+}
+
+.avatar-container {
+  text-align: center;
+}
+
+figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+figure img {
+  vertical-align: middle;
+  border: 8px solid rgb(202, 224, 248);
+}
+
+footer {
+  margin-top: 330px;
+  padding-top: 10px;
+  color: #020000;
+  border-top: 1px solid #020000;
+  text-align: center;
+}
+
+.page-title {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  font-family: "Verdana", sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.partnership {
+  margin: 30px 0;
+  padding: 30px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #4a87fa;
+  background-image: url("img/bg-partnership.svg");
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+.overline {
+  text-decoration: overline;
+}
+
+.italic {
+  font-style: italic;
+}
+
+img {
+  border: 13px solid #faf7f7;
+}
